@@ -15,6 +15,6 @@
 ![Swagger](https://img.shields.io/badge/-swagger-090909?style=for-the-badge&logo=swagger)
 
 
-### Контакт
+### Контакты
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:fabrichkina@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/MariaTelkova)
